@@ -1,6 +1,7 @@
 # IBM-Project-19000-1659691983
 ![A![Wind_Energy_Predictor💨](https://user-images.githubusercontent.com/66867986/193417937-945d45be-e8c0-4462-8f0a-97df819494bd.png)
 UR last modified](https://img.shields.io/aur/last-modified/google-chrome)
+![Wind_Energy_Predictor💨](https://user-images.githubusercontent.com/66867986/193418219-24712a88-d65f-419c-ae2d-82032d278dc8.png)
 
 ## 👨‍💻Project Details
 - TECHNOLOGY : AI & ML     
