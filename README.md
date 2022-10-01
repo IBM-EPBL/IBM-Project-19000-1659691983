@@ -1,5 +1,5 @@
 # IBM-Project-19000-1659691983
-![Wind_Energy_Predictor💨🍃](https://user-images.githubusercontent.com/66867986/193418330-b38d1da1-2a86-4cc2-ae9a-c8d4afd8d933.png)
+![Wind_Energy_Predictor💨🍃 (1)](https://user-images.githubusercontent.com/66867986/193418411-a8fcb212-7965-412b-9247-3b9f04e11a24.png)
 ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)
 
 ## 👨‍💻Project Details
