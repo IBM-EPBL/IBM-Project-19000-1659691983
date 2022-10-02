@@ -33,7 +33,10 @@ Member4
 -
 -
 
-# **🎯Skills Required:**        
+# **🎯Requirments:**   
+```python
+pip install -r /path/to/requirements.txt
+```
 ----------------------------------------
 
 
