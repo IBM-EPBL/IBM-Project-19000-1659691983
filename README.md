@@ -23,7 +23,7 @@ Member4
 | Planning | Done |
 | File Structure | Done |
 | Data Collection | Done |
-| Task Assigning | 30% |
+| Task Assigning | 100% |
 | Basic Preperations | Done |
 
 
