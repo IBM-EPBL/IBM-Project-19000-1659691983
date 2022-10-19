@@ -28,10 +28,10 @@ Keerthana B
 
 
 # **📜PROJECT DESCRIPTION:**          
--It is highly dependant on the weather condition present at its site
--The output can be predicted more accurately
--It reserve power to integrate wind power
--In this system the inlet condition of wind energy is forecasted by the auto regression model
+-Wind energy plays an increasing role in the supply of energy world-wide. The energy output of a wind farm is highly dependent on the weather conditions present at its site.  
+-In this paper, we predict energy prediction based on weather data and analyse the important parameters as well as their correlation on the energy output.
+-If the output can be predicted more accurately, energy suppliers can coordinate the collaborative production of different energy sources more efficiently to avoid costly overproduction.
+-It is highly dependant on the weather condition present at its site.In this system the inlet condition of wind energy is forecasted by the auto regression model
 
 # **🎯Requirments:**   
 ```python
