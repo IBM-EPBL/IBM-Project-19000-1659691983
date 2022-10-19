@@ -10,10 +10,10 @@
 
 ```sh
 Sindhuja K - Team Lead
-Member1
-Member2
-Member3
-Member4
+Kaavya G
+Rabiya Tabassum J
+Shameem Faathima I.S
+Keerthana B
 ```
 
 # **⌛Shedules**
