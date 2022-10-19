@@ -28,10 +28,10 @@ Keerthana B
 
 
 # **📜PROJECT DESCRIPTION:**          
--
--
--
--
+-It is highly dependant on the weather condition present at its site
+-The output can be predicted more accurately
+-It reserve power to integrate wind power
+-In this system the inlet condition of wind energy is forecasted by the auto regression model
 
 # **🎯Requirments:**   
 ```python
