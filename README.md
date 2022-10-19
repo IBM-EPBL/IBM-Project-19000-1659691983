@@ -16,7 +16,7 @@ Shameem Faathima I.S
 Keerthana B
 ```
 
-# **⌛Shedules**
+# **⌛Schedules**
 | Task | Status    |
 | :-------- | :------- |
 | Disscussion | Done |
