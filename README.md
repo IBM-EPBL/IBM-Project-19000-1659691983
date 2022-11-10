@@ -1,4 +1,4 @@
-# IBM-Project-19000-1659691983
+# IBM-Project-19000-1659691983 
 ![Wind_Energy_Predictor💨🍃](https://user-images.githubusercontent.com/66867986/193418442-04e92688-3345-4fbf-8aba-aa03cca3e448.png)
 ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome) ![last](https://img.shields.io/badge/Branch-ML-orange) ![last](https://img.shields.io/badge/Framework-Flask-%23967bb6) ![last](https://img.shields.io/badge/CSV%20DATA-82.6k-brightgreen)
 
